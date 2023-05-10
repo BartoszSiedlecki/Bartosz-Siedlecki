@@ -14,4 +14,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=ffffff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
