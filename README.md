@@ -3,7 +3,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoszsiedlecki&theme=github_dark">
 <h3 align="center">Technology I use:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000000&style=for-the-badge" />
